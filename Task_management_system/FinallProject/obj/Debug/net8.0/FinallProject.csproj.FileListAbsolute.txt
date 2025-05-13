@@ -1,0 +1,71 @@
+H:\Desing Pattern\FinallProject\FinallProject\obj\Debug\net8.0\FinallProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desing Pattern\FinallProject\FinallProject\obj\Debug\net8.0\FinallProject.AssemblyInfoInputs.cache
+H:\Desing Pattern\FinallProject\FinallProject\obj\Debug\net8.0\FinallProject.AssemblyInfo.cs
+H:\Desing Pattern\FinallProject\FinallProject\obj\Debug\net8.0\FinallProject.csproj.CoreCompileInputs.cache
+H:\Desing Pattern\FinallProject\FinallProject\bin\Debug\net8.0\FinallProject.exe
+H:\Desing Pattern\FinallProject\FinallProject\bin\Debug\net8.0\FinallProject.deps.json
+H:\Desing Pattern\FinallProject\FinallProject\bin\Debug\net8.0\FinallProject.runtimeconfig.json
+H:\Desing Pattern\FinallProject\FinallProject\bin\Debug\net8.0\FinallProject.dll
+H:\Desing Pattern\FinallProject\FinallProject\bin\Debug\net8.0\FinallProject.pdb
+H:\Desing Pattern\FinallProject\FinallProject\obj\Debug\net8.0\FinallProject.dll
+H:\Desing Pattern\FinallProject\FinallProject\obj\Debug\net8.0\refint\FinallProject.dll
+H:\Desing Pattern\FinallProject\FinallProject\obj\Debug\net8.0\FinallProject.pdb
+H:\Desing Pattern\FinallProject\FinallProject\obj\Debug\net8.0\FinallProject.genruntimeconfig.cache
+H:\Desing Pattern\FinallProject\FinallProject\obj\Debug\net8.0\ref\FinallProject.dll
+H:\Desing Pattern\‏‏FinallProject - עותק\FinallProject\obj\Debug\net8.0\FinallProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desing Pattern\‏‏FinallProject - עותק\FinallProject\obj\Debug\net8.0\FinallProject.AssemblyInfoInputs.cache
+H:\Desing Pattern\‏‏FinallProject - עותק\FinallProject\obj\Debug\net8.0\FinallProject.AssemblyInfo.cs
+H:\Desing Pattern\‏‏FinallProject - עותק\FinallProject\obj\Debug\net8.0\FinallProject.csproj.CoreCompileInputs.cache
+H:\Desing Pattern\‏‏FinallProject - עותק\FinallProject\obj\Debug\net8.0\FinallProject.dll
+H:\Desing Pattern\‏‏FinallProject - עותק\FinallProject\obj\Debug\net8.0\refint\FinallProject.dll
+H:\Desing Pattern\‏‏FinallProject - עותק\FinallProject\obj\Debug\net8.0\FinallProject.pdb
+H:\Desing Pattern\‏‏FinallProject - עותק\FinallProject\bin\Debug\net8.0\FinallProject.exe
+H:\Desing Pattern\‏‏FinallProject - עותק\FinallProject\bin\Debug\net8.0\FinallProject.deps.json
+H:\Desing Pattern\‏‏FinallProject - עותק\FinallProject\bin\Debug\net8.0\FinallProject.runtimeconfig.json
+H:\Desing Pattern\‏‏FinallProject - עותק\FinallProject\bin\Debug\net8.0\FinallProject.dll
+H:\Desing Pattern\‏‏FinallProject - עותק\FinallProject\bin\Debug\net8.0\FinallProject.pdb
+H:\Desing Pattern\‏‏FinallProject - עותק\FinallProject\obj\Debug\net8.0\FinallProject.genruntimeconfig.cache
+H:\Desing Pattern\‏‏FinallProject - עותק\FinallProject\obj\Debug\net8.0\ref\FinallProject.dll
+H:\Desing Pattern\‏‏‏‏FinallProject - עותק - עותק\FinallProject\obj\Debug\net8.0\FinallProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desing Pattern\‏‏‏‏FinallProject - עותק - עותק\FinallProject\obj\Debug\net8.0\FinallProject.AssemblyInfoInputs.cache
+H:\Desing Pattern\‏‏‏‏FinallProject - עותק - עותק\FinallProject\obj\Debug\net8.0\FinallProject.AssemblyInfo.cs
+H:\Desing Pattern\‏‏‏‏FinallProject - עותק - עותק\FinallProject\obj\Debug\net8.0\FinallProject.csproj.CoreCompileInputs.cache
+H:\Desing Pattern\‏‏‏‏FinallProject - עותק - עותק\FinallProject\obj\Debug\net8.0\FinallProject.dll
+H:\Desing Pattern\‏‏‏‏FinallProject - עותק - עותק\FinallProject\obj\Debug\net8.0\refint\FinallProject.dll
+H:\Desing Pattern\‏‏‏‏FinallProject - עותק - עותק\FinallProject\obj\Debug\net8.0\FinallProject.pdb
+H:\Desing Pattern\‏‏‏‏FinallProject - עותק - עותק\FinallProject\bin\Debug\net8.0\FinallProject.exe
+H:\Desing Pattern\‏‏‏‏FinallProject - עותק - עותק\FinallProject\bin\Debug\net8.0\FinallProject.deps.json
+H:\Desing Pattern\‏‏‏‏FinallProject - עותק - עותק\FinallProject\bin\Debug\net8.0\FinallProject.runtimeconfig.json
+H:\Desing Pattern\‏‏‏‏FinallProject - עותק - עותק\FinallProject\bin\Debug\net8.0\FinallProject.dll
+H:\Desing Pattern\‏‏‏‏FinallProject - עותק - עותק\FinallProject\bin\Debug\net8.0\FinallProject.pdb
+H:\Desing Pattern\‏‏‏‏FinallProject - עותק - עותק\FinallProject\obj\Debug\net8.0\FinallProject.genruntimeconfig.cache
+H:\Desing Pattern\‏‏‏‏FinallProject - עותק - עותק\FinallProject\obj\Debug\net8.0\ref\FinallProject.dll
+H:\Desing Pattern\‏‏‏‏FinallProject\FinallProject\bin\Debug\net8.0\FinallProject.exe
+H:\Desing Pattern\‏‏‏‏FinallProject\FinallProject\bin\Debug\net8.0\FinallProject.deps.json
+H:\Desing Pattern\‏‏‏‏FinallProject\FinallProject\bin\Debug\net8.0\FinallProject.runtimeconfig.json
+H:\Desing Pattern\‏‏‏‏FinallProject\FinallProject\bin\Debug\net8.0\FinallProject.dll
+H:\Desing Pattern\‏‏‏‏FinallProject\FinallProject\bin\Debug\net8.0\FinallProject.pdb
+H:\Desing Pattern\‏‏‏‏FinallProject\FinallProject\obj\Debug\net8.0\FinallProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desing Pattern\‏‏‏‏FinallProject\FinallProject\obj\Debug\net8.0\FinallProject.AssemblyInfoInputs.cache
+H:\Desing Pattern\‏‏‏‏FinallProject\FinallProject\obj\Debug\net8.0\FinallProject.AssemblyInfo.cs
+H:\Desing Pattern\‏‏‏‏FinallProject\FinallProject\obj\Debug\net8.0\FinallProject.csproj.CoreCompileInputs.cache
+H:\Desing Pattern\‏‏‏‏FinallProject\FinallProject\obj\Debug\net8.0\FinallProject.dll
+H:\Desing Pattern\‏‏‏‏FinallProject\FinallProject\obj\Debug\net8.0\refint\FinallProject.dll
+H:\Desing Pattern\‏‏‏‏FinallProject\FinallProject\obj\Debug\net8.0\FinallProject.pdb
+H:\Desing Pattern\‏‏‏‏FinallProject\FinallProject\obj\Debug\net8.0\FinallProject.genruntimeconfig.cache
+H:\Desing Pattern\‏‏‏‏FinallProject\FinallProject\obj\Debug\net8.0\ref\FinallProject.dll
+H:\server\design patters\‏‏‏‏FinallProject-מעודכן\FinallProject\bin\Debug\net8.0\FinallProject.exe
+H:\server\design patters\‏‏‏‏FinallProject-מעודכן\FinallProject\bin\Debug\net8.0\FinallProject.deps.json
+H:\server\design patters\‏‏‏‏FinallProject-מעודכן\FinallProject\bin\Debug\net8.0\FinallProject.runtimeconfig.json
+H:\server\design patters\‏‏‏‏FinallProject-מעודכן\FinallProject\bin\Debug\net8.0\FinallProject.dll
+H:\server\design patters\‏‏‏‏FinallProject-מעודכן\FinallProject\bin\Debug\net8.0\FinallProject.pdb
+H:\server\design patters\‏‏‏‏FinallProject-מעודכן\FinallProject\obj\Debug\net8.0\FinallProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\server\design patters\‏‏‏‏FinallProject-מעודכן\FinallProject\obj\Debug\net8.0\FinallProject.AssemblyInfoInputs.cache
+H:\server\design patters\‏‏‏‏FinallProject-מעודכן\FinallProject\obj\Debug\net8.0\FinallProject.AssemblyInfo.cs
+H:\server\design patters\‏‏‏‏FinallProject-מעודכן\FinallProject\obj\Debug\net8.0\FinallProject.csproj.CoreCompileInputs.cache
+H:\server\design patters\‏‏‏‏FinallProject-מעודכן\FinallProject\obj\Debug\net8.0\FinallProject.sourcelink.json
+H:\server\design patters\‏‏‏‏FinallProject-מעודכן\FinallProject\obj\Debug\net8.0\FinallProject.dll
+H:\server\design patters\‏‏‏‏FinallProject-מעודכן\FinallProject\obj\Debug\net8.0\refint\FinallProject.dll
+H:\server\design patters\‏‏‏‏FinallProject-מעודכן\FinallProject\obj\Debug\net8.0\FinallProject.pdb
+H:\server\design patters\‏‏‏‏FinallProject-מעודכן\FinallProject\obj\Debug\net8.0\FinallProject.genruntimeconfig.cache
+H:\server\design patters\‏‏‏‏FinallProject-מעודכן\FinallProject\obj\Debug\net8.0\ref\FinallProject.dll
